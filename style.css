@@ -1,0 +1,10 @@
+span {
+color: blue;
+}
+
+.eye-catching, span{
+    text-decoration: underline;
+}
+p#toaster {
+    color:red;
+}
